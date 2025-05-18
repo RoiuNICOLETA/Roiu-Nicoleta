@@ -30,8 +30,8 @@ Sunt pasionată de dezvoltarea web și sunt într-o continuă evoluție ca Front
 
 ## 📬 Contact
 
-- ✉️ roiunicoleta@gmail.com  
-- 💼 [LinkedIn (dacă ai)](https://linkedin.com/in/...)  
+- ✉️ nicoll27_2004@yahoo.com 
+- 💼 www.linkedin.com/in/nicoleta-roiu-183701296
 
 
 💡 Vizitează [repo-urile mele](https://github.com/RoiuNICOLETA?tab=repositories) pentru a vedea proiectele complete!
